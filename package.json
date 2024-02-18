@@ -4,7 +4,6 @@
   "description": "COMP2156 lab exercise",
   "main": "index.js",
   "homepage": "https://hitagupta.github.io/comp2156-labs/",
-  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
